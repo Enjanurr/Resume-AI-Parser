@@ -3,7 +3,7 @@
 An AI-powered resume parser that extracts and analyzes resume content using NLP and machine learning. Built with Django REST Framework and Next.js, this full-stack app allows users to upload resumes and receive structured, meaningful insights — ideal for HR tools, job portals, or personal resume enhancement tools.
 
 ---
-![resume-parser-demo](demo) 
+![resume-parser-demo](demo.png) 
 ---
 ## 🧠 Key Features
 
