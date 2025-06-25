@@ -1,7 +1,7 @@
 from django.http import JsonResponse
 import json
 from django.views.decorators.csrf import csrf_exempt
-from .resumeParser import ats_extractor
+#from .resumeParser import ats_extractor
 from .hug import cohereModel
 
 @csrf_exempt
