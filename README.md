@@ -31,5 +31,5 @@ An AI-powered resume parser that extracts and analyzes resume content using NLP 
 
 ---
 
-## 📂 Project Structure
+
 
